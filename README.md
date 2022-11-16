@@ -1,11 +1,17 @@
 # ISO-II-C03
 
-Componentes del equipo:
+**Componentes del equipo:**
+
   Representante:  Carlos Almagro Rubio
+  
   Secretario:     Lorenzo Selas Santos
+  
                   Alonso Hurtado Lillo
+                  
                   Pablo Mollá Gil
+                  
                   Mattia Papari
+                  
                   Manuel Sánchez Sánchez-Barba
                   
   Profesor encargado: Fernando Gualo
