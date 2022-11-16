@@ -2,9 +2,9 @@
 
 **Componentes del equipo:**
 
- - Representante:  Carlos Almagro Rubio
+ - **Representante**:  Carlos Almagro Rubio
   
- - Secretario:     Lorenzo Selas Santos
+ - **Secretario**:     Lorenzo Selas Santos
   
  - Alonso Hurtado Lillo
                   
@@ -14,8 +14,8 @@
                   
  - Manuel Sánchez Sánchez-Barba
                   
-Profesor encargado: Fernando Gualo
+**Profesor encargado**: Fernando Gualo
 
-Proyecto a realizar: Pilgrimfy
+**Proyecto a realizar**: Pilgrimfy
 
 Lab ISO 2
