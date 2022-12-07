@@ -1,5 +1,5 @@
-package Modulo1;
-public class Empresa {
+package ModuloNegocio;
+public class Negocio {
 
 	private String propietario;
 	private String ubicacion;
@@ -19,8 +19,8 @@ public class Empresa {
 	 * @param tipo_empresa
 	 * @param Nombre
 	 */
-	public Empresa(String propietario, String ubucacion, String fecha_ingreso, boolean visible, String descripcion, String tipo_empresa, String Nombre) {
-		// TODO - implement Empresa.Empresa
+	public Negocio(String propietario, String ubucacion, String fecha_ingreso, boolean visible, String descripcion, String tipo_empresa, String Nombre) {
+		// TODO - implement Negocio.Negocio
 		throw new UnsupportedOperationException();
 	}
 

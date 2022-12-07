@@ -1,11 +1,12 @@
-package Modulo1;
+package ModuloNegocio;
 public class IU_NEGOCIO {
+
 	/**
 	 * 
 	 * @param constrasena
 	 */
 	public void introducirContrasena(String constrasena) {
-		// TODO - implement IU_Negocio.introducirContrasena
+		// TODO - implement IU_Negocios.introducirContrasena
 		throw new UnsupportedOperationException();
 	}
 
@@ -14,7 +15,8 @@ public class IU_NEGOCIO {
 	 * @param nombre
 	 */
 	public void introducirNombreUsuario(String nombre) {
-		// TODO - implement IU_Negocio.introducirNombreUsuario
+		// TODO - implement IU_Negocios.introducirNombreUsuario
 		throw new UnsupportedOperationException();
 	}
+
 }
