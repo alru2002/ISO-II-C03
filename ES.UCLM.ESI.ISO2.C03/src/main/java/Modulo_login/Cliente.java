@@ -1,6 +1,7 @@
-public class Clientes {
+package Modulo_login;
+public class Cliente {
 
-	private string constrasena;
-	private string nonbre_usuario;
+	private String constrasena;
+	private String nonbre_usuario;
 
 }

@@ -1,8 +1,9 @@
-public class gestor_negocios {
+package Modulo_negocio;
+public class Gestor_Negocios {
 
-	private Negocios[] Negocios;
+	private Negocio[] Negocios;
 
-	public void Añadir_Negocioo() {
+	public void Anadir_Negocioo() {
 
 	}
 

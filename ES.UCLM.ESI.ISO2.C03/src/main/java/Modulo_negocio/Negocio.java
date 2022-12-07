@@ -1,12 +1,13 @@
+package Modulo_negocio;
 public class Negocio {
 
-	private string propietario;
-	private string ubicacion;
-	private string fecha_ingreso;
+	private String propietario;
+	private String ubicacion;
+	private String fecha_ingreso;
 	private boolean visible;
-	private string descripcion;
-	private string tipo_empresa;
-	private string Nombre;
+	private String descripcion;
+	private String tipo_empresa;
+	private String Nombre;
 
 	/**
 	 * 
@@ -18,7 +19,7 @@ public class Negocio {
 	 * @param tipo_empresa
 	 * @param Nombre
 	 */
-	public Negocio(string propietario, string ubucacion, string fecha_ingreso, boolean visible, string descripcion, string tipo_empresa, string Nombre) {
+	public Negocio(String propietario, String ubucacion, String fecha_ingreso, boolean visible, String descripcion, String tipo_empresa, String Nombre) {
 		// TODO - implement Negocio.Negocio
 		throw new UnsupportedOperationException();
 	}

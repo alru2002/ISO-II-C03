@@ -1,4 +1,5 @@
-public class IU_Negocios {
+package Modulo_negocio;
+public class IU_NEGOCIO {
 
 	/**
 	 * 
