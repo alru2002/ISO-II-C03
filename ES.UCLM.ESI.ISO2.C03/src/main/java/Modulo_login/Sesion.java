@@ -1,13 +1,11 @@
-package Modulo_login;
 public class Sesion {
 
 	/**
 	 * 
-	 * @param string
+	 * @param String
 	 */
-	public String login(int string) {
-		// TODO - implement Sesion.login
-		throw new UnsupportedOperationException();
+	public String login(int String) {
+
 	}
 
 }

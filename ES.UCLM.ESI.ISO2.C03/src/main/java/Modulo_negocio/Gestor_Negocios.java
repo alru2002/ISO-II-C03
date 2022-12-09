@@ -1,10 +1,10 @@
-package Modulo_negocio;
-public class Gestor_Negocios {
+public class gestor_negocios {
 
-	private Negocio[] Negocios;
+	private Cuenta[] Cuentas;
 
-	public void Anadir_Negocioo() {
-
+	public void Añadir_Negocioo() {
+		// TODO - implement gestor_negocios.Añadir_Negocioo
+		throw new UnsupportedOperationException();
 	}
 
 }
