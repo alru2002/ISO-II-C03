@@ -1,2 +1,0 @@
-public class Negocio2 {
-}
