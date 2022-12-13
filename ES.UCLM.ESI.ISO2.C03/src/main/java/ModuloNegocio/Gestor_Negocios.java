@@ -7,4 +7,9 @@ public class Gestor_Negocios {
 
 	}
 
+public int getNumNegocios(String tipo, String localizacion) {
+		// TODO - implement gestor_negocios5.getNumNegocios
+		throw new UnsupportedOperationException();
+	}
+
 }
