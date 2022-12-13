@@ -19,4 +19,14 @@ public class IU_NEGOCIO {
 		throw new UnsupportedOperationException();
 	}
 
+	/**
+	 * 
+	 * @param tipo
+	 * @param localizacion
+	 */
+	public void mostrarNumNegocios(String tipo, String localizacion) {
+		// TODO - implement IU_Negocio5.mostrarNumNegocios
+		throw new UnsupportedOperationException();
+	}
+
 }
